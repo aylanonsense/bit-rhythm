@@ -6,4 +6,4 @@ primaryColor: 1919FF
 coverImage: cover-image.png
 description: A sassy rhythm game in two tweets or less!
 dimensions: 512x512
-scaling: off
+scaling: on
