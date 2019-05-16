@@ -1,5 +1,5 @@
 require 'lib/bits'
-N,f,p,m,k,z,w=15,1,1,30,0,0,{7,6,10,8,7,5,1,4,5,9}
+N,f,p,m,k,z,w=15,1,1,30,0,0,{7,6,10,8,7,5,5,9,1,4}
 function o()
 t,z={},z+1
 for i=1,N do t[i]=(i>4 and i<N and M()==1) end
