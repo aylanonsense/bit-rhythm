@@ -22,7 +22,7 @@ end
 function _D()
 BG(2)
 for i=1,#t do B(i,7,w[(t[i] and 1 or 2)+2*(FLR(z/3)%5)]) end
-TEXT('level '..z,5,186)
+TEXT('level '..z,33,186)
 A(p, 7)
 if z==1 then TEXT('press space as you enter each note',160,245) end
 end

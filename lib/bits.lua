@@ -424,11 +424,11 @@ function love.draw()
     end
   end)
 
-  if filter_effect then
-    filter_effect(drawFunc)
-  else
+  -- if filter_effect then
+  --   filter_effect(drawFunc)
+  -- else
     drawFunc()
-  end
+  -- end
 end
 
 -- TODO: make this do the thing. make something similarly architected to moonshine,
