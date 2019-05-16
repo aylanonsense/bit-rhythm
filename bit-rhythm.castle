@@ -1,0 +1,8 @@
+---
+main: main.lua
+title: Bit Rhythm
+owner: bridgs
+primaryColor: 000064
+description: A sassy rhythm game in two tweets or less!
+dimensions: 512x512
+scaling: on
